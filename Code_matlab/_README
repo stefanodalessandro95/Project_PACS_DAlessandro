@@ -1,0 +1,9 @@
+This folder contains the matlab code for the project
+
+The scripts Test_1D and Test_2D run the tests on the 1D function and 2D function respectively for all the four algorithms implemented 
+The results are displayed with plots (as the 1D and 2D cases allow this possibility)
+
+The specific values for the parameters can be set inside the scripts where the algorithms are implemented. 
+The scripts are stored in the Algorithms folder. 
+
+The Functions Folder contains the 2D functions and the function for the computation of the stochastic gradient. 
